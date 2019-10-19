@@ -3,7 +3,7 @@ body
   margin: 0;
   background-image: url("images/background.png");
   font-family: arial, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   text-align:"center"
 }
 
@@ -13,6 +13,11 @@ h1
   font-weight: normal;
   margin-top: 5px;
   text-align: center;
+}
+
+table, th, td
+{
+  border: 1px solid black;
 }
 
 h2
